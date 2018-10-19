@@ -1,6 +1,8 @@
 Ubuntu-with-CoreOS-tools image for Scaleway
 ========================
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/scaleway-ubuntu-coreos.svg)](https://www.guardrails.io)
+
 
 Scripts to build a Ubuntu image on Scaleway with the common used tools of CoreOS like fleet, etcd and flanneld (soon more to be added).
 
